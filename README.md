@@ -21,4 +21,6 @@ The second tab should display a search box, allowing the user to type in a keywo
 Tab 3: User Login
 The third tab should allow the user to log in. Only logged-in users can borrow, return, or consume items from the system.
 
+6.Ordering Systems-------
+A python program that takes csv file as input and convert it to json format, then print out invoice of each order. Each order must not exist ten order. If exceed, the order must split to a new order with same customer id. 
 
