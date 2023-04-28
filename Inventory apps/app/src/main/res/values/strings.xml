@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebBasedSystem</string>
+    <string name="logo">System Logo</string>
+    <string name="book">book Logo</string>
+    <string name="game">game Logo</string>
+    <string name="material">material Logo</string>
+    <string name="gift">gift Logo</string>
+</resources>
