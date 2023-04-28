@@ -12,7 +12,8 @@ It is a grid of 9x9 blocks with some given digits as shown in the figure. The pu
 5.Inventory Apps----------
 three-tab Android application using Jetpack Compose. The first tab will have four types Games, Gifts, Materials, and Books with a list view. Clicking each item will go to another list view, showing all the items as returned by the API server. The second tab will display a search box, allowing the user to type in a keyword. By calling an API, the search result will be returned, and you should develop a list view to display the result. The third tab allows the user to log in. Only logged-in users can borrow, return, or consume items from the system.
 
-6.Inventory Webs----------A Vue CLI app styled by Bootstrap and ApexChart.
+6.Inventory Webs----------find prototype.drawio.png in the folder for prototype of this project 
+A Vue CLI app styled by Bootstrap and ApexChart.
 Use Bootstrap to support webpage layout and responsive web design.
 Use AJAX technology to submit and request data.
 The data visualization should be developed with ApexChart.
